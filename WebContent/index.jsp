@@ -26,11 +26,11 @@
 				<form class="form-horizontal">
 					<div style="margin-bottom: 25px" class="input-group">
 						<span class="input-group-addon">Usuario:</span> 
-						<input id="username" type="text" class="form-control" name="username" value="" placeholder="username" required="required">
+						<input id="username" type="text" class="form-control" name="username" value="" placeholder="usuario" required="required">
 					</div>
 					<div style="margin-bottom: 25px" class="input-group">
 						<span class="input-group-addon">Contraseña:</span> 
-						<input id="password" type="password" class="form-control" name="password" placeholder="password" required="required">
+						<input id="password" type="password" class="form-control" name="password" placeholder="contraseña" required="required">
 					</div>
 						<input type="submit" value="Enviar" class="btn btn-info" />
 						<input type="button" value="Registrar usuario" class="btn btn-info" onclick="reenviar('Usuarios?op=n');"/>
@@ -40,7 +40,7 @@
 		</div>
 	</div>
 	</div>
-<footer><hr><img src="imagenes/logoITESZ.png" class="footer"><br/>
+<footer><hr><img src="imagenes/logoTEC.png" class="footer"><br/>
 <address>Sitio desarrollado por alumnos de la clase Programacion Web 2018</address></footer>
 </body>
 </html>
