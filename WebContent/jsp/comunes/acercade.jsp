@@ -3,9 +3,8 @@
 <div class="container">
 <br>
 	<section>
-		<img src="../../imagenes/roberto.png" class="img-responsive" alt="Imagen RSZ">
-		<p>ISC. Roberto Su&aacute;rez Zinz&uacute;n, maestro de la Academia de Ciencias de la Computaci&oacute;n y lider del 
-		proyecto titulaTEC.</p>
+		<img src="../../imagenes/LogoCarpPro.png" class="img-responsive" alt="Imagen RSZ">
+		<p>ISC. 7B Contribuidores del Proyecto: Jesus Jonathan Talamantes Mendoza - Juan Carlos Leon Morales - Jose Eduardo Serrato Ixta</p>
 	</section>
 	<input type="button" value="Regresar" class="btn btn-info">
 </div>

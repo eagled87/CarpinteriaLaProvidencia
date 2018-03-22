@@ -1,26 +1,26 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">CarpinteriaLaProvidencia</a>
-    </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Usuarios <span class="caret"></span></a>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Categorias <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="#">Alta de Usuarios</a></li>
-          <li><a href="#">Consulta general</a></li>
+		  <li><a href="#">Consultar Categorias</a></li>
+          <li><a href="#">Alta de Categorias</a></li>
+          <li><a href="#">Editar Categorias</a></li>
         </ul>
       </li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Productos <span class="caret"></span></a>
         <ul class="dropdown-menu">
+          <li><a href="#">Consultar Productos</a></li>
           <li><a href="#">Alta de Productos</a></li>
-          <li><a href="#">Consulta general</a></li>
+          <li><a href="#">Editar Productos</a></li>
         </ul>
       </li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Ventas<span class="caret"></span></a>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Pedidos<span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="#">Alta de Ventas</a></li>
-          <li><a href="#">Consulta general</a></li>
+          <li><a href="#">Consultar Pedidos</a></li>
+          <li><a href="#">Alta de Pedidos</a></li>
+          <li><a href="#">Editar Pedidos</a></li>
         </ul>
       </li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Ayuda<span class="caret"></span></a>
